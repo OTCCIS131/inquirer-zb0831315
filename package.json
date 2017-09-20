@@ -1,0 +1,24 @@
+{
+  "name": "inquirer-zb0831315",
+  "version": "1.0.0",
+  "description": "inquirer-zb0831315 <!--  1. User executes program 2. User is greeted by a welcome message. 3. User is asked what size pizza they would like to order. 4. User is asked what kind of sauce they would like on their pizza 5. User is asked what kind of toppings they would like on their pizza. 6. The order for the user will be repeated back to them as verification. 7. Ask customer if the order is correct. 8. If the order is not correct, allow them to fix it. 9. If the order is correct a message will appear saying that the pizza is on its way!   -->",
+  "main": "pizza.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/inquirer-zb0831315.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/inquirer-zb0831315/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/inquirer-zb0831315#readme"
+}
